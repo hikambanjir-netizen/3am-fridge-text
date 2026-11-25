@@ -1,8 +1,8 @@
 # The 3AM Fridge Text
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed?style=flat-square)](https://make.fun/bounties/u-deysumbrella-the-3am-fridge-text-4c3e721d?ref=dfkzjsa3)
-[![make.fun repo](https://img.shields.io/badge/make.fun-repo-2563eb?style=flat-square)](https://make.fun/bounties/u-deysumbrella-the-3am-fridge-text-4c3e721d?ref=dfkzjsa3)
-[![author @hikam-banjir](https://img.shields.io/badge/author-%40hikam--banjir-0ea5e9?style=flat-square)](https://make.fun/?ref=dfkzjsa3)
+[![make.fun · u-deysumbrella-the-3am-fridge-text-4c3e721d](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-3am-fridge-text-4c3e721d)
+[![rank](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/hikambanjir-netizen/3am-fridge-text/rank.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-3am-fridge-text-4c3e721d)
+[![reward](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/hikambanjir-netizen/3am-fridge-text/reward.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-3am-fridge-text-4c3e721d)
 
 One single line of text — the message a smart fridge sends its owner at 3am.
 
